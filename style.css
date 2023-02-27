@@ -43,3 +43,10 @@ body {
     list-style:none;
     padding: 0 30px;
 }
+
+#navbar li a {
+    text-decoration: none;
+    font-size: 20px;
+    font-weight: 600;
+    color: #1a1a1a;
+}
