@@ -20,6 +20,11 @@ p {
     margin: 40px 0;
 }
 
+.logo {
+    width: 100px;
+    height: auto;
+}
+
 body {
     width: 100%;
 }
