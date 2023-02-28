@@ -112,4 +112,8 @@ body {
     background-size: 95%;
     height: 120vh;
     width: 110%;
+    padding: 0 80px;
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
 }
